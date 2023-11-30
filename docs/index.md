@@ -35,3 +35,7 @@ programmiert. Für Python habe ich mich entschieden, weil ein grosser
 Teil unserer Schüler auch an den Universitäten wieder mit Pyhton
 konfrontiert werden dürften. Es wäre aber auch möglich, in Jupyter
 Notebooks andere Programmiersprachen zu verwenden.
+
+## Verfügbare Inhalte
+
+Eine übersicht über die aktuell verfügbaren Inhalte findet sich hier.
