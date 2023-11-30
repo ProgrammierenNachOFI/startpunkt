@@ -15,8 +15,8 @@ zur Verfügung gestellt.
 
 In Jupyter Notebooks kann
 Text und ausführbarer Quellcode
-kombiniert werden. Auf der Website 
-([The Programming Historian](https://programminghistorian.org/en/lessons/jupyter-notebooks)
+kombiniert werden. (Auf der Website 
+[The Programming Historian](https://programminghistorian.org/en/lessons/jupyter-notebooks)
 gibt es eine Einführung zu Jupyter Notebooks.)
 Dies ermöglicht es, Resultate
 von quantitativen Untersuchungen nachvollziehbar und transparent
