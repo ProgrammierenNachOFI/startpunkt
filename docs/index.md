@@ -38,4 +38,5 @@ Notebooks andere Programmiersprachen zu verwenden.
 
 ## Verfügbare Inhalte
 
-Eine übersicht über die aktuell verfügbaren Inhalte findet sich hier.
+Eine Übersicht über die aktuell verfügbaren Inhalte findet sich
+[hier](inhalte.md).
