@@ -1,4 +1,4 @@
-Programmieren nach dem obligatorischen Fach Informatik
+# Programmieren nach dem obligatorischen Fach Informatik
 Der Digital Learning Hub des Kantons Zürich (DLH) hat es mir ermöglicht, einen Satz von interaktiven Arbeitsblättern zu erstellen. Mit diesen Arbeitsblättern soll auf den im obligatorischen Fach Informatik gewonnen Programmierkenntnissen aufbauend die Gelegenheit geboten werden, in anderen Fächern diese Kenntnisse zur Lösung von Problemen im entsprechenden Fachgebiete einzusetzen.
 
 Aufbereitung der Inhalte
